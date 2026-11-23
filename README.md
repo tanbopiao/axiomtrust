@@ -1,2 +1,6 @@
 # axiomtrust
 AxiomTrust — 火斗云体系命名占位
+
+## Usage
+
+本仓为文档/设计稿集合，无需安装，直接浏览文件即可。
